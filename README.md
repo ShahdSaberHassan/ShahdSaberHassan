@@ -20,8 +20,7 @@
 
 ### Connect with Me :
 
-[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)][(https://www.linkedin.com/in/mahmoud-mansy-a189a5232/]
-(https://www.linkedin.com/in/shahd-saberhassan-500725296)
+[![LinkedIn](https://img.shields.io/badge/-LINKEDIN-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shahd-saberhassan-500725296)
 
 
 
