@@ -11,8 +11,8 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=FrontEnd%20developer;Always%20learning%20new%20technologies&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-##- 🏢 I'm a Software Engineer
-##- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
+- 🏢 I'm a Software Engineer
+- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 𝑺𝒌𝒊𝒍𝒍𝒆𝒅 𝒊𝒏 𝑹𝒆𝒂𝒄𝒕, 𝑾𝒆𝒃 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒎𝒆𝒏𝒕, 𝒂𝒏𝒅 𝑷𝒓𝒐𝒃𝒍𝒆𝒎 𝑺𝒐𝒍𝒗𝒊𝒏𝒈. 𝑷𝒓𝒐𝒇𝒊𝒄𝒊𝒆𝒏𝒕 𝒊𝒏 𝒄𝒐𝒅𝒊𝒏𝒈 𝒔𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝒐𝒓 𝒓𝒆𝒍𝒂𝒕𝒆𝒅 𝒕𝒆𝒄𝒉𝒏𝒐𝒍𝒐𝒈𝒊𝒆𝒔
 
 
